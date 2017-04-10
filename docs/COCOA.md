@@ -23,6 +23,7 @@
 ## How to compile
 
 ```bash
+brew tap Tox/tox
 brew install --HEAD libtoxcore
 mkdir build
 cd build
